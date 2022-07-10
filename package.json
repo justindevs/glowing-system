@@ -2,7 +2,7 @@
   "name": "glowing-system",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://justindevs.github.io/glowing-system",
+  "homepage": "https://justindevs.github.io/glowing-system",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
