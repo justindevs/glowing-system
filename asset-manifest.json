@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glowing-system/static/css/main.7315a96d.css",
-    "main.js": "/glowing-system/static/js/main.ab7b6c73.js",
+    "main.js": "/glowing-system/static/js/main.dc897129.js",
     "static/js/787.511e272d.chunk.js": "/glowing-system/static/js/787.511e272d.chunk.js",
     "static/media/glowingshard.png": "/glowing-system/static/media/glowingshard.8b38c407073e55233b7d.png",
     "static/media/justin-about.png": "/glowing-system/static/media/justin-about.dc4de99c41b950db5484.png",
@@ -12,11 +12,11 @@
     "static/media/linkedin.png": "/glowing-system/static/media/linkedin.bb1c8447efb243276fe8.png",
     "index.html": "/glowing-system/index.html",
     "main.7315a96d.css.map": "/glowing-system/static/css/main.7315a96d.css.map",
-    "main.ab7b6c73.js.map": "/glowing-system/static/js/main.ab7b6c73.js.map",
+    "main.dc897129.js.map": "/glowing-system/static/js/main.dc897129.js.map",
     "787.511e272d.chunk.js.map": "/glowing-system/static/js/787.511e272d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7315a96d.css",
-    "static/js/main.ab7b6c73.js"
+    "static/js/main.dc897129.js"
   ]
 }
