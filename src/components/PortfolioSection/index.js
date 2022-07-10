@@ -20,10 +20,10 @@ function PortfolioSection() {
             logo: 'opendsa.png'
         },
         {
-            name: "glowing-shard",
+            name: "glowing-system",
             isWeb: true,
-            link: 'https://justindevs.github.io',
-            code: 'https://github.com/justindevs/glowing-shard',
+            link: 'https://justindevs.github.io/glowing-system',
+            code: 'https://github.com/justindevs/glowing-system',
             logo: 'glowingshard.png' // glowing-shard image is in the public domain https://www.rawpixel.com/image/5961524/free-public-domain-cc0-photo
         },
         {
@@ -34,10 +34,10 @@ function PortfolioSection() {
             logo: 'opendsa.png'
         },
         {
-            name: "glowing-shard2",
+            name: "glowing-system2",
             isWeb: true,
-            link: 'https://justindevs.github.io',
-            code: 'https://github.com/justindevs/glowing-shard',
+            link: 'https://justindevs.github.io/glowing-system',
+            code: 'https://github.com/justindevs/glowing-system',
             logo: 'glowingshard.png'
         },
         {

@@ -17,7 +17,7 @@ function Header(props) {
 
     return (
         <header className="flex-row px-1">
-            <a data-testid="link" href="/">
+            <a data-testid="link" href="/glowing-system">
                     <span>
                         <div className="circular--portrait">
                             <img src={require('../../assets/justin-avatar.png')} alt='justin face logo'/>
